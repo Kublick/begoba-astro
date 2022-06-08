@@ -1,0 +1,9 @@
+.btn-main {
+	@apply rounded-xl border-4 border-mango bg-primary py-2 text-white;
+}
+
+.stuff {
+	background-color: red;
+	color: white;
+	padding: 12px;
+}
